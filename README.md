@@ -10,3 +10,5 @@ La segunda parte del repositorio consiste en implementaciones del método Monte 
 - Oscilador armónico cuántico de 1 dimensión.
 - Oscilador armónico cuántico de 3 dimensiones.
 - Átomo de Helio.
+
+Investigación realizada gracias al programa UNAM-PAPIIT IA-104720.
